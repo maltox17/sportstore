@@ -1,0 +1,18 @@
+.navbar-brand {
+    margin-right: 5% !important;
+    margin-left: 1% !important;
+}
+
+body{
+    background: url('../img/bg.png') #f4f4f4 ;
+}
+
+
+
+.SubmitButton{
+    width: 97%;
+}
+
+#Imageshirt{
+    max-height: 17rem !important;
+}
